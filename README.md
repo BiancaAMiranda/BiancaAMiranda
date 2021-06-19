@@ -1,17 +1,17 @@
-# Bianca Miranda
-### Hi there 👋
+<h1 align="left">Bianca Miranda</h1>
+<img src="https://user-images.githubusercontent.com/78173189/122655323-d9075c00-d127-11eb-9ad4-195bc3743f5b.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador Felipe Freitas">
+<h3 align="left">🖥️ Front-end & Mobile developer!</h3>
 
-#### - ☀️ I'm from Fortaleza - CE - Brazil
-#### - 🔭 Languages I know:
+<h3>🇧🇷 Brasil, Fortaleza - CE </h3>
 
-![html](https://user-images.githubusercontent.com/78173189/122654934-01418b80-d125-11eb-9c8b-b8c6336e5eaa.png) ![css](https://user-images.githubusercontent.com/78173189/122654942-0a325d00-d125-11eb-87b7-c4dff9a19c06.png) ![js](https://user-images.githubusercontent.com/78173189/122654947-13bbc500-d125-11eb-9cec-13e4de8ba23f.png)
+<h3 align="left">🌺 Follow Me:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/bianca-miranda-265386210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></p>
 
-#### - 🌱 I’m currently learning:
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-![kotlin](https://user-images.githubusercontent.com/78173189/122654986-639a8c00-d125-11eb-8a13-cd80f6b7d4c7.png)
-
-#### - 📫 How to reach me:
-![linkedin](https://user-images.githubusercontent.com/78173189/122655052-ef141d00-d125-11eb-88df-60fe7ba61a30.png)
-https://www.linkedin.com/in/bianca-miranda-265386210/
-
-![computer](https://user-images.githubusercontent.com/78173189/122654369-41067400-d121-11eb-9323-7ffadc84e27f.gif)
+<h3 align="left">Learning:</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/122655573-b118f800-d129-11eb-8e5a-eaa01e664694.png" alt="javascript" width="30" height="30"/> </a>
