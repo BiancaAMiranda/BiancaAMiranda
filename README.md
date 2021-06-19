@@ -5,7 +5,7 @@
 <h3>🇧🇷 Brasil, Fortaleza - CE </h3>
 
 <h3 align="left">🌺 Follow Me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/bianca-miranda-265386210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/bianca-miranda-265386210/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
