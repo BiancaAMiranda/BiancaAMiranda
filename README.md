@@ -1,5 +1,5 @@
 <h1 align="left">Bianca Miranda</h1>
-<img src="https://user-images.githubusercontent.com/78173189/122655323-d9075c00-d127-11eb-9ad4-195bc3743f5b.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador Felipe Freitas">
+<img src="" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador">
 <h3 align="left">🖥️ Front-end & Mobile developer!</h3>
 
 <h3>🇧🇷 Brasil, Fortaleza - CE </h3>
