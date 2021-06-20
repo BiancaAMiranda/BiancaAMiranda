@@ -1,5 +1,5 @@
 <h1 align="left">Bianca Miranda</h1>
-<img src="" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/78173189/122680101-13263b80-d1c4-11eb-8275-0f3ae52c0fa2.gif" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador">
 <h3 align="left">🖥️ Front-end & Mobile developer!</h3>
 
 <h3>🇧🇷 Brasil, Fortaleza - CE </h3>
@@ -14,4 +14,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <h3 align="left">Learning:</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/122655573-b118f800-d129-11eb-8e5a-eaa01e664694.png" alt="javascript" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/kotlin/index.php" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/122655573-b118f800-d129-11eb-8e5a-eaa01e664694.png" alt="kotlin" width="30" height="30"/> </a>
