@@ -13,6 +13,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/125307677-a60b4f00-e306-11eb-9259-255386e70bd0.png" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866289-5327a7d0-5be0-4f78-bd90-65201b7d3779.png" alt="react" width="40" height="40"/></a>
 
 <h3 align="left">Learning:</h3>
-<a href="https://www.w3schools.com/kotlin/index.php" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/122655573-b118f800-d129-11eb-8e5a-eaa01e664694.png" alt="kotlin" width="30" height="30"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866628-9acaa9d2-db3e-4431-a754-77dc546040b2.png" alt="flutter" width="30" height="30"/> </a>
