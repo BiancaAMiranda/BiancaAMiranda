@@ -14,6 +14,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/125307677-a60b4f00-e306-11eb-9259-255386e70bd0.png" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866289-5327a7d0-5be0-4f78-bd90-65201b7d3779.png" alt="react" width="40" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866628-9acaa9d2-db3e-4431-a754-77dc546040b2.png" alt="flutter" width="30" height="30"/> </a>
+<a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136597487-9b474ad2-68ba-492b-9afb-3b4a9d646f1c.png" alt="flutter" width="30" height="30"/> </a>
 
 <h3 align="left">Learning:</h3>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866628-9acaa9d2-db3e-4431-a754-77dc546040b2.png" alt="flutter" width="30" height="30"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136597864-b039b653-7609-4009-a417-9b2bdc1ef3c4.png
+" alt="flutter" width="30" height="30"/> </a>
