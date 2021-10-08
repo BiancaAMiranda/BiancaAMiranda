@@ -18,5 +18,4 @@
 <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136597487-9b474ad2-68ba-492b-9afb-3b4a9d646f1c.png" alt="flutter" width="30" height="30"/> </a>
 
 <h3 align="left">Learning:</h3>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136597864-b039b653-7609-4009-a417-9b2bdc1ef3c4.png
-" alt="flutter" width="30" height="30"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136598093-c83b5eed-a838-411e-9bc2-022311d34117.png" alt="flutter" width="30" height="30"/> </a>
