@@ -21,8 +21,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136598093-c83b5eed-a838-411e-9bc2-022311d34117.png" alt="flutter" width="30" height="30"/> </a>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaAMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaAMiranda&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/BiancaAMiranda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaAMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaAMiranda&layout=compact&langs_count=7&theme=dracula"/>
+   </a>
 </div>
 
   ![Snake animation](https://github.com/BiancaAMiranda/BiancaAMiranda/blob/output/github-contribution-grid-snake.svg)
