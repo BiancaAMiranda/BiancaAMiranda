@@ -22,8 +22,6 @@
 <a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/128866628-9acaa9d2-db3e-4431-a754-77dc546040b2.png" alt="flutter" width="30" height="30"/> </a>
 <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://user-images.githubusercontent.com/78173189/136597487-9b474ad2-68ba-492b-9afb-3b4a9d646f1c.png" alt="firebase" width="30" height="30"/> </a> </p>
 
-<h3 align="left">Learning:</h3>
-
 <div align="center">
   <a href="https://github.com/BiancaAMiranda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaAMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
